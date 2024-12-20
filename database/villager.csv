@@ -1,0 +1,414 @@
+id,name,gender,personality,species,birthday_month,birthday_day,catchphrase,image_url
+brd09,Ace,Male,Jock,Bird,August,11,ace,https://dodo.ac/np/images/9/91/Ace_amiibo.png
+brd06,Admiral,Male,Cranky,Bird,January,27,aye aye,https://dodo.ac/np/images/e/ed/Admiral_NH.png
+squ05,Agent S,Female,Peppy,Squirrel,July,2,sidekick,https://dodo.ac/np/images/a/a7/Agent_S_NH.png
+pig17,Agnes,Female,Big sister,Pig,April,21,snuffle,https://dodo.ac/np/images/4/4e/Agnes_NH_Transparent.png
+gor08,Al,Male,Lazy,Gorilla,October,18,ayyyeee,https://dodo.ac/np/images/c/c4/Al_NH.png
+crd00,Alfonso,Male,Lazy,Alligator,June,9,it'sa me,https://dodo.ac/np/images/e/e4/Alfonso_NH.png
+kal01,Alice,Female,Normal,Koala,August,19,guvnor,https://dodo.ac/np/images/e/e1/Alice_NH.png
+crd01,Alli,Female,Snooty,Alligator,November,8,graaagh,https://dodo.ac/np/images/8/8e/Alli_NH.png
+pbr01,Amelia,Female,Snooty,Eagle,November,19,cuz,https://dodo.ac/np/images/a/ab/Amelia_NH.png
+ant03,Anabelle,Female,Peppy,Anteater,February,16,snorty,https://dodo.ac/np/images/d/d8/Anabelle_NH.png
+brd02,Anchovy,Male,Lazy,Bird,March,4,chuurp,https://dodo.ac/np/images/e/ea/Anchovy_NH.png
+bul00,Angus,Male,Cranky,Bull,April,30,macmoo,https://dodo.ac/np/images/5/5f/Angus_NH.png
+mus10,Anicotti,Female,Peppy,Mouse,February,24,cannoli,https://dodo.ac/np/images/8/80/Anicotti_NH.png
+cat19,Ankha,Female,Snooty,Cat,September,22,me meow,https://dodo.ac/np/images/5/56/Ankha_NH.png
+ant08,Annalisa,Female,Normal,Anteater,February,6,gumdrop,https://dodo.ac/np/images/f/f0/Annalisa_NH.png
+hrs09,Annalise,Female,Snooty,Horse,December,2,nipper,https://dodo.ac/np/images/c/c4/Annalise_NH.png
+ant01,Antonio,Male,Jock,Anteater,October,20,honk,https://dodo.ac/np/images/d/d4/Antonio_NH.png
+pbr00,Apollo,Male,Cranky,Eagle,July,4,pah,https://dodo.ac/np/images/0/0e/Apollo_NH_Transparent.png
+ham01,Apple,Female,Peppy,Hamster,September,24,cheekers,https://dodo.ac/np/images/5/57/Apple_NH.png
+kgr05,Astrid,Female,Snooty,Kangaroo,September,8,my pet,https://dodo.ac/np/images/d/d5/Astrid_NH.png
+wol12,Audie,Female,Peppy,Wolf,August,31,foxtrot,https://dodo.ac/np/images/1/1b/Audie_NH.png
+pgn00,Aurora,Female,Normal,Penguin,January,27,b-b-baby,https://dodo.ac/np/images/c/c6/Aurora_NH_Transparent.png
+chn05,Ava,Female,Normal,Chicken,April,28,beaker,https://dodo.ac/np/images/c/cc/Ava_NH.png
+pbr05,Avery,Male,Cranky,Eagle,February,22,skree-haw,https://dodo.ac/np/images/d/dd/Avery_NH.png
+elp06,Axel,Male,Jock,Elephant,March,23,WHONK,https://dodo.ac/np/images/0/09/Axel_NH.png
+rhn05,Azalea,Female,Snooty,Rhinoceros,December,18,merci,https://dodo.ac/np/images/e/ef/Azalea_amiibo.png
+shp01,Baabara,Female,Snooty,Sheep,March,28,daahling,https://dodo.ac/np/images/8/81/Baabara_NH_Transparent.png
+der01,Bam,Male,Jock,Deer,November,7,kablang,https://dodo.ac/np/images/2/2b/Bam_NH.png
+tig03,Bangle,Female,Peppy,Tiger,August,27,growf,https://dodo.ac/np/images/6/68/Bangle_NH.png
+cbr16,Barold,Male,Lazy,Bear cub,March,2,cubby,https://dodo.ac/np/images/9/9d/Barold_NH.png
+dog10,Bea,Female,Normal,Dog,October,15,bingo,https://dodo.ac/np/images/c/c2/Bea_NH.png
+bea13,Beardo,Male,Smug,Bear,September,27,whiskers,https://dodo.ac/np/images/c/c0/Beardo_NH.png
+der07,Beau,Male,Lazy,Deer,April,5,saltlick,https://dodo.ac/np/images/d/d4/Beau_NH.png
+chn09,Becky,Female,Snooty,Chicken,December,9,chicklet,https://dodo.ac/np/images/7/74/Becky_NH.png
+mus02,Bella,Female,Peppy,Mouse,December,28,eeks,https://dodo.ac/np/images/c/c0/Bella_NH.png
+chn01,Benedict,Male,Lazy,Chicken,October,10,uh-hoo,https://dodo.ac/np/images/3/3a/Benedict_NH.png
+dog16,Benjamin,Male,Lazy,Dog,August,3,alrighty,https://dodo.ac/np/images/9/97/Benjamin_NH.png
+hip03,Bertha,Female,Normal,Hippo,April,25,bloop,https://dodo.ac/np/images/a/a7/Bertha_NH.png
+mus15,Bettina,Female,Normal,Mouse,June,12,eekers,https://dodo.ac/np/images/9/9c/Bettina_NH_Transparent.png
+tig06,Bianca,Female,Peppy,Tiger,December,13,glimmer,https://dodo.ac/np/images/6/6f/Bianca_NH.png
+hip04,Biff,Male,Jock,Hippo,March,29,squirt,https://dodo.ac/np/images/9/9c/Biff_NH.png
+elp02,Big Top,Male,Lazy,Elephant,October,3,villain,https://dodo.ac/np/images/8/80/Big_Top_NH.png
+duk00,Bill,Male,Jock,Duck,February,1,quacko,https://dodo.ac/np/images/c/c1/Bill_NH.png
+goa02,Billy,Male,Jock,Goat,March,25,dagnaabit,https://dodo.ac/np/images/2/26/Billy_NH.png
+dog03,Biskit,Male,Lazy,Dog,May,13,dawg,https://dodo.ac/np/images/7/78/Biskit_NH.png
+hip05,Bitty,Female,Snooty,Hippo,October,6,my dear,https://dodo.ac/np/images/7/74/Bitty_NH.png
+squ01,Blaire,Female,Snooty,Squirrel,July,3,nutlet,https://dodo.ac/np/images/7/73/Blaire_NH.png
+ost08,Blanche,Female,Snooty,Ostrich,December,21,quite so,https://dodo.ac/np/images/d/df/Blanche_NH.png
+cbr00,Bluebear,Female,Peppy,Bear cub,June,24,peach,https://dodo.ac/np/images/4/49/Bluebear_NH.png
+cat00,Bob,Male,Lazy,Cat,January,1,pthhpth,https://dodo.ac/np/images/e/ea/Bob_NH.png
+rbt17,Bonbon,Female,Peppy,Rabbit,March,3,deelish,https://dodo.ac/np/images/c/cc/Bonbon_NH.png
+dog04,Bones,Male,Lazy,Dog,August,4,yip yip,https://dodo.ac/np/images/2/2b/Bones_NH.png
+pgn10,Boomer,Male,Lazy,Penguin,February,7,human,https://dodo.ac/np/images/7/7d/Boomer_NH.png
+gor02,Boone,Male,Jock,Gorilla,September,12,baboom,https://dodo.ac/np/images/1/19/Boone_NH.png
+crd02,Boots,Male,Jock,Alligator,August,7,munchie,https://dodo.ac/np/images/3/3e/Boots_NH.png
+pig09,Boris,Male,Cranky,Pig,November,6,schnort,https://dodo.ac/np/images/e/ef/Boris_NH.png
+gor05,Boyd,Male,Cranky,Gorilla,October,1,uh-oh,https://dodo.ac/np/images/2/21/Boyd_NH.png
+mus03,Bree,Female,Snooty,Mouse,July,7,cheeseball,https://dodo.ac/np/images/1/12/Bree_NH.png
+mus12,Broccolo,Male,Lazy,Mouse,June,30,eat it,https://dodo.ac/np/images/6/69/Broccolo_NH.png
+chn12,Broffina,Female,Snooty,Chicken,October,24,cluckadoo,https://dodo.ac/np/images/7/7a/Broffina_NH.png
+der03,Bruce,Male,Cranky,Deer,May,26,gruff,https://dodo.ac/np/images/0/08/Bruce_NH.png
+hip02,Bubbles,Female,Peppy,Hippo,September,18,hipster,https://dodo.ac/np/images/0/0e/Bubbles_NH.png
+hrs00,Buck,Male,Jock,Horse,April,4,pardner,https://dodo.ac/np/images/7/7f/Buck_NH.png
+lon00,Bud,Male,Jock,Lion,August,8,shredded,https://dodo.ac/np/images/1/1f/Bud_NH.png
+rbt00,Bunnie,Female,Peppy,Rabbit,May,9,tee-hee,https://dodo.ac/np/images/0/00/Bunnie_NH_Transparent.png
+dog01,Butch,Male,Cranky,Dog,November,1,ROOOOOWF,https://dodo.ac/np/images/2/2b/Butch_NH.png
+pbr03,Buzz,Male,Cranky,Eagle,December,7,captain,https://dodo.ac/np/images/0/05/Buzz_NH.png
+squ11,Cally,Female,Normal,Squirrel,September,4,WHEE,https://dodo.ac/np/images/a/a6/Cally_NH.png
+flg03,Camofrog,Male,Cranky,Frog,June,5,ten-hut,https://dodo.ac/np/images/e/e1/Camofrog_NH.png
+kal08,Canberra,Female,Big sister,Koala,May,14,nuh uh,https://dodo.ac/np/images/e/e6/Canberra_NH.png
+mus08,Candi,Female,Peppy,Mouse,April,13,sweetie,https://dodo.ac/np/images/5/57/Candi_NH.png
+rbt16,Carmen,Female,Peppy,Rabbit,January,6,nougat,https://dodo.ac/np/images/e/eb/Carmen_NH.png
+squ06,Caroline,Female,Normal,Squirrel,July,15,hulaaaa,https://dodo.ac/np/images/2/26/Caroline_NH.png
+kgr02,Carrie,Female,Normal,Kangaroo,December,5,little one,https://dodo.ac/np/images/6/6a/Carrie_NH.png
+shp04,Cashmere,Female,Snooty,Sheep,April,2,baaaby,https://dodo.ac/np/images/e/eb/Cashmere_NH.png
+pbr09,Celia,Female,Normal,Eagle,March,25,feathers,https://dodo.ac/np/images/0/00/Celia_NH.png
+ocp04,Cephalobot,Male,Smug,Octopus,April,1,donk donk,https://dodo.ac/np/images/b/b5/Cephalobot_amiibo.png
+gor00,Cesar,Male,Cranky,Gorilla,September,6,highness,https://dodo.ac/np/images/2/23/Cesar_NH.png
+pgn07,Chabwick,Male,Lazy,Penguin,December,24,blargh,https://dodo.ac/np/images/6/60/Chabwick_amiibo.png
+mus18,Chadder,Male,Smug,Mouse,December,15,fromage,https://dodo.ac/np/images/3/32/Chadder_NH.png
+elp11,Chai,Female,Peppy,Elephant,March,6,flap flap,https://dodo.ac/np/images/a/ab/Chai_PC.png
+bea12,Charlise,Female,Big sister,Bear,April,17,urgh,https://dodo.ac/np/images/a/ac/Charlise_NH.png
+der10,Chelsea,Female,Normal,Deer,January,18,pound cake,https://dodo.ac/np/images/9/97/Chelsea_PC.png
+cbr10,Cheri,Female,Peppy,Bear cub,March,17,tralala,https://dodo.ac/np/images/d/d5/Cheri_NH.png
+dog17,Cherry,Female,Big sister,Dog,May,11,what what,https://dodo.ac/np/images/3/3e/Cherry_NH.png
+cbr15,Chester,Male,Lazy,Bear cub,August,6,rookie,https://dodo.ac/np/images/a/af/Chester_NH.png
+goa00,Chevre,Female,Normal,Goat,March,6,la baa,https://dodo.ac/np/images/c/c9/Chevre_NH.png
+wol00,Chief,Male,Cranky,Wolf,December,19,harrumph,https://dodo.ac/np/images/1/13/Chief_NH.png
+pig14,Chops,Male,Smug,Pig,October,13,zoink,https://dodo.ac/np/images/a/ad/Chops_NH_Transparent.png
+bea03,Chow,Male,Cranky,Bear,July,22,aiya,https://dodo.ac/np/images/d/d1/Chow_NH.png
+rbt13,Chrissy,Female,Peppy,Rabbit,August,28,sparkles,https://dodo.ac/np/images/6/6a/Chrissy_NH.png
+rbt11,Claude,Male,Lazy,Rabbit,December,3,hopalong,https://dodo.ac/np/images/1/1f/Claude_NH.png
+tig05,Claudia,Female,Snooty,Tiger,November,22,ooh la la,https://dodo.ac/np/images/d/d6/Claudia_NH.png
+ham05,Clay,Male,Lazy,Hamster,October,19,thump,https://dodo.ac/np/images/6/6c/Clay_NH.png
+hrs07,Cleo,Female,Snooty,Horse,February,9,sugar,https://dodo.ac/np/images/e/e9/Cleo_NH.png
+hrs10,Clyde,Male,Lazy,Horse,May,1,clip clawp,https://dodo.ac/np/images/b/bb/Clyde_NH.png
+bul07,Coach,Male,Jock,Bull,April,29,stubble,https://dodo.ac/np/images/c/c1/Coach_NH.png
+pig08,Cobb,Male,Jock,Pig,October,7,hot dog,https://dodo.ac/np/images/9/9d/Cobb_NH.png
+rbt02,Coco,Female,Normal,Rabbit,March,1,doyoing,https://dodo.ac/np/images/8/83/Coco_NH.png
+rbt18,Cole,Male,Lazy,Rabbit,August,10,coooooool,https://dodo.ac/np/images/9/95/Cole_NH_Transparent.png
+hrs11,Colton,Male,Smug,Horse,May,22,check it,https://dodo.ac/np/images/8/8c/Colton_NH.png
+dog08,Cookie,Female,Peppy,Dog,June,18,arfer,https://dodo.ac/np/images/d/d9/Cookie_NH.png
+flg10,Cousteau,Male,Jock,Frog,December,17,oui oui,https://dodo.ac/np/images/1/1c/Cousteau_NH.png
+ost06,Cranston,Male,Lazy,Ostrich,September,23,sweatband,https://dodo.ac/np/images/b/b7/Cranston_NH.png
+flg17,Croque,Male,Cranky,Frog,July,18,as if,https://dodo.ac/np/images/7/70/Croque_NH.png
+pgn02,Cube,Male,Lazy,Penguin,January,29,brainfreeze,https://dodo.ac/np/images/1/10/Cube_NH.png
+shp08,Curlos,Male,Smug,Sheep,May,8,shearly,https://dodo.ac/np/images/1/1a/Curlos_NH_Transparent.png
+pig00,Curly,Male,Jock,Pig,July,26,nyoink,https://dodo.ac/np/images/3/3d/Curly_NH.png
+bea02,Curt,Male,Cranky,Bear,July,1,fuzzball,https://dodo.ac/np/images/2/27/Curt_NH.png
+elp12,Cyd,Male,Cranky,Elephant,June,9,rockin',https://dodo.ac/np/images/5/5d/Cyd_NH.png
+ant00,Cyrano,Male,Cranky,Anteater,March,9,ah-CHOO,https://dodo.ac/np/images/4/48/Cyrano_NH.png
+dog07,Daisy,Female,Normal,Dog,November,16,bow-WOW,https://dodo.ac/np/images/9/96/Daisy_NH.png
+duk04,Deena,Female,Normal,Duck,June,27,woowoo,https://dodo.ac/np/images/b/b8/Deena_NH.png
+der04,Deirdre,Female,Big sister,Deer,May,4,whatevs,https://dodo.ac/np/images/3/3c/Deirdre_NH.png
+crd04,Del,Male,Cranky,Alligator,May,27,gronk,https://dodo.ac/np/images/4/46/Del_NH.png
+mnk08,Deli,Male,Lazy,Monkey,May,24,monch,https://dodo.ac/np/images/3/30/Deli_NH.png
+duk08,Derwin,Male,Lazy,Duck,May,25,derrrr,https://dodo.ac/np/images/9/98/Derwin_NH.png
+der08,Diana,Female,Snooty,Deer,January,4,no doy,https://dodo.ac/np/images/1/1f/Diana_NH.png
+flg18,Diva,Female,Big sister,Frog,October,2,ya know,https://dodo.ac/np/images/4/44/Diva_NH.png
+elp01,Dizzy,Male,Lazy,Elephant,July,14,woo-oo,https://dodo.ac/np/images/6/63/Dizzy_NH.png
+wol04,Dobie,Male,Cranky,Wolf,February,17,ohmmm,https://dodo.ac/np/images/7/76/Dobie_NH.png
+rbt10,Doc,Male,Lazy,Rabbit,March,16,old bunny,https://dodo.ac/np/images/c/cd/Doc_NH.png
+shp15,Dom,Male,Jock,Sheep,March,18,indeedaroo,https://dodo.ac/np/images/7/75/Dom_NH.png
+mus00,Dora,Female,Normal,Mouse,February,18,squeaky,https://dodo.ac/np/images/d/de/Dora_NH.png
+rbt01,Dotty,Female,Peppy,Rabbit,March,14,wee one,https://dodo.ac/np/images/c/cc/Dotty_NH.png
+crd08,Drago,Male,Lazy,Alligator,February,12,burrrn,https://dodo.ac/np/images/f/f9/Drago_NH.png
+duk09,Drake,Male,Lazy,Duck,June,25,quacko,https://dodo.ac/np/images/e/e0/Drake_NH.png
+flg04,Drift,Male,Jock,Frog,October,9,dribbit,https://dodo.ac/np/images/a/ac/Drift_NH.png
+hrs06,Ed,Male,Smug,Horse,September,16,greenhorn,https://dodo.ac/np/images/c/c9/Ed_NH.png
+chn02,Egbert,Male,Lazy,Chicken,October,14,doodle-duh,https://dodo.ac/np/images/3/3f/Egbert_NH.png
+mnk05,Elise,Female,Snooty,Monkey,March,21,puh-lease,https://dodo.ac/np/images/0/0c/Elise_NH.png
+elp07,Ellie,Female,Normal,Elephant,May,12,li'l one,https://dodo.ac/np/images/3/38/Ellie_NH.png
+hrs03,Elmer,Male,Lazy,Horse,October,5,tenderfoot,https://dodo.ac/np/images/6/60/Elmer_NH.png
+elp03,Eloise,Female,Snooty,Elephant,December,8,tooooot,https://dodo.ac/np/images/b/b1/Eloise_NH.png
+lon01,Elvis,Male,Cranky,Lion,July,23,unh-hunh,https://dodo.ac/np/images/c/cc/Elvis_NH.png
+der09,Erik,Male,Lazy,Deer,July,27,chow down,https://dodo.ac/np/images/8/88/Erik_NH.png
+shp14,Étoile,Female,Normal,Sheep,December,25,fuzzy,https://dodo.ac/np/images/2/23/%C3%89toile_PC.png
+kal10,Eugene,Male,Smug,Koala,October,26,yeah buddy,https://dodo.ac/np/images/a/ab/Eugene_NH.png
+shp02,Eunice,Female,Normal,Sheep,April,3,lambchop,https://dodo.ac/np/images/9/97/Eunice_NH.png
+kal07,Faith,Female,Big sister,Koala,March,21,aloha,https://dodo.ac/np/images/5/58/Faith_amiibo.png
+wol06,Fang,Male,Cranky,Wolf,December,18,cha-chomp,https://dodo.ac/np/images/9/9e/Fang_NH_Transparent.png
+der00,Fauna,Female,Normal,Deer,March,26,dearie,https://dodo.ac/np/images/9/91/Fauna_NH.png
+cat17,Felicity,Female,Peppy,Cat,March,30,mimimi,https://dodo.ac/np/images/c/c7/Felicity_NH.png
+squ02,Filbert,Male,Lazy,Squirrel,June,3,bucko,https://dodo.ac/np/images/8/81/Filbert_NH.png
+mnk06,Flip,Male,Jock,Monkey,November,21,rerack,https://dodo.ac/np/images/c/c3/Flip_NH.png
+pgn13,Flo,Female,Big sister,Penguin,September,2,cha,https://dodo.ac/np/images/b/bb/Flo_NH.png
+ost09,Flora,Female,Peppy,Ostrich,February,9,pinky,https://dodo.ac/np/images/8/8e/Flora_NH.png
+ham06,Flurry,Female,Normal,Hamster,January,30,powderpuff,https://dodo.ac/np/images/0/03/Flurry_NH.png
+rbt12,Francine,Female,Snooty,Rabbit,January,22,karat,https://dodo.ac/np/images/3/34/Francine_NH.png
+pbr06,Frank,Male,Cranky,Eagle,July,30,crushy,https://dodo.ac/np/images/7/75/Frank_NH.png
+duk07,Freckles,Female,Peppy,Duck,February,19,ducky,https://dodo.ac/np/images/7/7d/Freckles_NH.png
+dog11,Frett,Male,Cranky,Dog,October,30,goshers,https://dodo.ac/np/images/b/b3/Frett_amiibo.png
+wol05,Freya,Female,Snooty,Wolf,December,14,uff da,https://dodo.ac/np/images/e/ee/Freya_NH.png
+pgn04,Friga,Female,Snooty,Penguin,October,16,brrrmph,https://dodo.ac/np/images/8/8c/Friga_NH.png
+shp11,Frita,Female,Big sister,Sheep,July,16,oh ewe,https://dodo.ac/np/images/d/d5/Frita_NH.png
+flg02,Frobert,Male,Jock,Frog,February,8,fribbit,https://dodo.ac/np/images/3/3b/Frobert_NH.png
+der06,Fuchsia,Female,Big sister,Deer,September,19,precious,https://dodo.ac/np/images/6/67/Fuchsia_NH.png
+rbt05,Gabi,Female,Peppy,Rabbit,December,16,honeybun,https://dodo.ac/np/images/8/86/Gabi_NH.png
+pig13,Gala,Female,Normal,Pig,March,5,snortie,https://dodo.ac/np/images/e/e6/Gala_NH.png
+rbt04,Gaston,Male,Cranky,Rabbit,October,28,mon chou,https://dodo.ac/np/images/5/59/Gaston_NH.png
+crd07,Gayle,Female,Normal,Alligator,May,17,snacky,https://dodo.ac/np/images/5/5e/Gayle_NH.png
+rbt08,Genji,Male,Jock,Rabbit,January,21,mochi,https://dodo.ac/np/images/6/67/Genji_NH.png
+flg16,Gigi,Female,Snooty,Frog,August,11,ribbette,https://dodo.ac/np/images/8/86/Gigi_NH.png
+ost01,Gladys,Female,Normal,Ostrich,January,15,stretch,https://dodo.ac/np/images/a/a5/Gladys_NH_Transparent.png
+duk15,Gloria,Female,Snooty,Duck,August,12,quacker,https://dodo.ac/np/images/1/14/Gloria_NH.png
+dog00,Goldie,Female,Normal,Dog,December,27,woof,https://dodo.ac/np/images/8/83/Goldie_NH.png
+kal04,Gonzo,Male,Cranky,Koala,October,13,mate,https://dodo.ac/np/images/0/09/Gonzo_NH.png
+chn00,Goose,Male,Jock,Chicken,October,4,buh-kay,https://dodo.ac/np/images/9/91/Goose_NH.png
+ham02,Graham,Male,Smug,Hamster,June,20,indeed,https://dodo.ac/np/images/a/a1/Graham_NH.png
+mus16,Greta,Female,Snooty,Mouse,September,5,yelp,https://dodo.ac/np/images/b/bd/Greta_NH.png
+bea09,Grizzly,Male,Cranky,Bear,July,31,grrr,https://dodo.ac/np/images/4/4b/Grizzly_NH.png
+bea06,Groucho,Male,Cranky,Bear,October,23,grumble,https://dodo.ac/np/images/1/1d/Groucho_NH.png
+goa04,Gruff,Male,Cranky,Goat,August,29,bleh eh eh,https://dodo.ac/np/images/2/25/Gruff_NH.png
+pgn05,Gwen,Female,Snooty,Penguin,January,23,h-h-h-hon,https://dodo.ac/np/images/b/be/Gwen_NH.png
+ham00,Hamlet,Male,Jock,Hamster,May,30,hammie,https://dodo.ac/np/images/4/46/Hamlet_NH.png
+ham07,Hamphrey,Male,Cranky,Hamster,February,25,snort,https://dodo.ac/np/images/a/a9/Hamphrey_NH.png
+gor10,Hans,Male,Smug,Gorilla,December,5,groovy,https://dodo.ac/np/images/1/15/Hans_NH.png
+hip08,Harry,Male,Cranky,Hippo,January,7,beach bum,https://dodo.ac/np/images/1/1a/Harry_NH.png
+squ18,Hazel,Female,Big sister,Squirrel,August,30,uni-wow,https://dodo.ac/np/images/1/17/Hazel_NH.png
+flg19,Henry,Male,Smug,Frog,September,21,snoozit,https://dodo.ac/np/images/2/26/Henry_NH.png
+hip09,Hippeux,Male,Smug,Hippo,October,15,natch,https://dodo.ac/np/images/2/26/Hippeux_NH.png
+rbt14,Hopkins,Male,Lazy,Rabbit,March,11,thumper,https://dodo.ac/np/images/c/c1/Hopkins_NH.png
+pgn03,Hopper,Male,Cranky,Penguin,April,6,slushie,https://dodo.ac/np/images/c/cb/Hopper_NH.png
+rhn04,Hornsby,Male,Lazy,Rhinoceros,March,20,schnozzle,https://dodo.ac/np/images/9/95/Hornsby_NH.png
+flg11,Huck,Male,Smug,Frog,July,9,hopper,https://dodo.ac/np/images/1/17/Huck_NH.png
+pig03,Hugh,Male,Lazy,Pig,December,30,snortle,https://dodo.ac/np/images/b/b6/Hugh_NH.png
+pgn11,Iggly,Male,Jock,Penguin,November,2,waddler,https://dodo.ac/np/images/6/68/Iggly_NH.png
+bea11,Ike,Male,Cranky,Bear,May,16,roadie,https://dodo.ac/np/images/3/34/Ike_NH.png
+squ21,Ione,Female,Normal,Squirrel,September,11,gleam,https://dodo.ac/np/images/4/40/Ione_amiibo.png
+brd11,Jacob,Male,Lazy,Bird,August,24,ya feel,https://dodo.ac/np/images/3/3e/Jacob_NH.png
+brd16,Jacques,Male,Smug,Bird,June,22,zut alors,https://dodo.ac/np/images/0/03/Jacques_NH.png
+flg13,Jambette,Female,Normal,Frog,October,27,croak-kay,https://dodo.ac/np/images/3/35/Jambette_NH.png
+brd00,Jay,Male,Jock,Bird,July,17,heeeeeyy,https://dodo.ac/np/images/3/3b/Jay_NH_1.png
+flg07,Jeremiah,Male,Lazy,Frog,July,8,nee-deep,https://dodo.ac/np/images/9/93/Jeremiah_NH.png
+brd04,Jitters,Male,Jock,Bird,February,2,bzzert,https://dodo.ac/np/images/a/a6/Jitters_NH.png
+duk01,Joey,Male,Lazy,Duck,January,3,bleeeeeck,https://dodo.ac/np/images/6/66/Joey_NH.png
+cbr19,Judy,Female,Snooty,Bear cub,March,10,myohmy,https://dodo.ac/np/images/d/d4/Judy_NH.png
+ost05,Julia,Female,Snooty,Ostrich,July,31,dahling,https://dodo.ac/np/images/0/0b/Julia_NH_Transparent.png
+hrs13,Julian,Male,Smug,Horse,March,15,glitter,https://dodo.ac/np/images/f/f2/Julian_NH.png
+cbr13,June,Female,Normal,Bear cub,May,21,rainbow,https://dodo.ac/np/images/8/85/June_NH.png
+cat09,Kabuki,Male,Cranky,Cat,November,29,meooo-OH,https://dodo.ac/np/images/2/2a/Kabuki_NH.png
+cat21,Katt,Female,Big sister,Cat,April,27,purrty,https://dodo.ac/np/images/c/c9/Katt_NH.png
+pbr08,Keaton,Male,Smug,Eagle,June,1,wingo,https://dodo.ac/np/images/3/3b/Keaton_NH.png
+chn13,Ken,Male,Smug,Chicken,December,23,no doubt,https://dodo.ac/np/images/e/e0/Ken_NH.png
+duk13,Ketchup,Female,Peppy,Duck,July,27,bitty,https://dodo.ac/np/images/4/42/Ketchup_NH.png
+pig15,Kevin,Male,Jock,Pig,April,26,weeweewee,https://dodo.ac/np/images/7/71/Kevin_NH.png
+cat10,Kid Cat,Male,Jock,Cat,August,1,psst,https://dodo.ac/np/images/c/c3/Kid_Cat_NH.png
+goa07,Kidd,Male,Smug,Goat,June,28,wut,https://dodo.ac/np/images/7/7a/Kidd_NH.png
+cat04,Kiki,Female,Normal,Cat,October,8,kitty cat,https://dodo.ac/np/images/c/c5/Kiki_NH.png
+kgr00,Kitt,Female,Normal,Kangaroo,October,11,child,https://dodo.ac/np/images/7/75/Kitt_NH.png
+cat14,Kitty,Female,Snooty,Cat,February,15,mrowrr,https://dodo.ac/np/images/2/21/Kitty_NH.png
+bea14,Klaus,Male,Smug,Bear,March,31,strudel,https://dodo.ac/np/images/5/5c/Klaus_NH.png
+chn11,Knox,Male,Cranky,Chicken,November,23,cluckling,https://dodo.ac/np/images/0/03/Knox_NH.png
+cbr04,Kody,Male,Jock,Bear cub,September,28,grah grah,https://dodo.ac/np/images/2/20/Kody_NH.png
+wol10,Kyle,Male,Smug,Wolf,December,6,alpha,https://dodo.ac/np/images/4/46/Kyle_NH.png
+tig04,Leonardo,Male,Jock,Tiger,May,15,flexin',https://dodo.ac/np/images/0/0a/Leonardo_NH.png
+lon04,Leopold,Male,Smug,Lion,August,14,lion cub,https://dodo.ac/np/images/3/3a/Leopold_NH.png
+flg00,Lily,Female,Normal,Frog,February,4,toady,https://dodo.ac/np/images/4/42/Lily_NH.png
+mus01,Limberg,Male,Cranky,Mouse,October,17,squinky,https://dodo.ac/np/images/b/b0/Limberg_NH.png
+lon08,Lionel,Male,Smug,Lion,July,29,precisely,https://dodo.ac/np/images/b/bb/Lionel_NH.png
+wol01,Lobo,Male,Cranky,Wolf,November,5,ah-rooooo,https://dodo.ac/np/images/d/d1/Lobo_NH.png
+cat18,Lolly,Female,Normal,Cat,March,27,bonbon,https://dodo.ac/np/images/1/16/Lolly_NH.png
+der05,Lopez,Male,Smug,Deer,August,20,badoom,https://dodo.ac/np/images/5/53/Lopez_NH.png
+gor04,Louie,Male,Jock,Gorilla,March,26,hoo hoo ha,https://dodo.ac/np/images/5/5a/Louie_NH.png
+brd15,Lucha,Male,Smug,Bird,December,12,cacaw,https://dodo.ac/np/images/4/4a/Lucha_NH.png
+dog02,Lucky,Male,Lazy,Dog,November,4,rrr-owch,https://dodo.ac/np/images/5/59/Lucky_NH.png
+pig04,Lucy,Female,Normal,Pig,June,2,snoooink,https://dodo.ac/np/images/e/e5/Lucy_NH.png
+kal09,Lyman,Male,Jock,Koala,October,12,chips,https://dodo.ac/np/images/a/a5/Lyman_NH.png
+dog14,Mac,Male,Jock,Dog,November,11,woo woof,https://dodo.ac/np/images/a/ab/Mac_NH.png
+dog09,Maddie,Female,Peppy,Dog,January,11,yippee,https://dodo.ac/np/images/0/06/Maddie_NH.png
+duk03,Maelle,Female,Snooty,Duck,April,8,duckling,https://dodo.ac/np/images/9/93/Maelle_NH.png
+pig10,Maggie,Female,Normal,Pig,September,3,schep,https://dodo.ac/np/images/b/b8/Maggie_NH.png
+duk06,Mallary,Female,Snooty,Duck,November,17,quackpth,https://dodo.ac/np/images/2/28/Mallary_NH.png
+cbr01,Maple,Female,Normal,Bear cub,June,15,honey,https://dodo.ac/np/images/a/a2/Maple_NH.png
+dog15,Marcel,Male,Lazy,Dog,December,31,non,https://dodo.ac/np/images/3/3e/Marcel_NH.png
+kgr10,Marcie,Female,Normal,Kangaroo,May,31,pouches,https://dodo.ac/np/images/2/2b/Marcie_NH.png
+elp04,Margie,Female,Normal,Elephant,January,28,tootie,https://dodo.ac/np/images/5/54/Margie_NH.png
+ocp01,Marina,Female,Normal,Octopus,June,26,blurp,https://dodo.ac/np/images/2/25/Marina_NH.png
+ham09,Marlo,Male,Cranky,Hamster,June,26,gabeesh,https://dodo.ac/np/images/c/c1/Marlo_amiibo.png
+squ17,Marshal,Male,Smug,Squirrel,September,29,sulky,https://dodo.ac/np/images/d/da/Marshal_NH.png
+cbr18,Marty,Male,Lazy,Bear cub,April,16,pompom,https://dodo.ac/np/images/a/a9/Marty_PC.png
+kgr01,Mathilda,Female,Snooty,Kangaroo,November,12,wee baby,https://dodo.ac/np/images/5/58/Mathilda_NH.png
+bea15,Megan,Female,Normal,Bear,March,13,sundae,https://dodo.ac/np/images/7/72/Megan_NH_1.png
+kal02,Melba,Female,Normal,Koala,April,12,toasty,https://dodo.ac/np/images/4/43/Melba_NH.png
+rhn07,Merengue,Female,Normal,Rhinoceros,March,19,shortcake,https://dodo.ac/np/images/0/0c/Merengue_NH.png
+cat16,Merry,Female,Peppy,Cat,June,29,mweee,https://dodo.ac/np/images/4/4f/Merry_NH.png
+brd08,Midge,Female,Normal,Bird,March,12,tweedledee,https://dodo.ac/np/images/a/af/Midge_NH.png
+squ09,Mint,Female,Snooty,Squirrel,May,2,ahhhhhh,https://dodo.ac/np/images/5/5b/Mint_NH.png
+rbt19,Mira,Female,Big sister,Rabbit,July,6,cottontail,https://dodo.ac/np/images/d/d1/Mira_NH.png
+duk12,Miranda,Female,Snooty,Duck,April,23,quackulous,https://dodo.ac/np/images/8/8c/Miranda_NH.png
+cat01,Mitzi,Female,Normal,Cat,September,25,mew,https://dodo.ac/np/images/6/63/Mitzi_NH.png
+cat08,Moe,Male,Lazy,Cat,January,12,myawn,https://dodo.ac/np/images/a/a4/Moe_NH.png
+duk16,Molly,Female,Normal,Duck,March,7,quackidee,https://dodo.ac/np/images/2/29/Molly_NH.png
+cat11,Monique,Female,Snooty,Cat,September,30,pffffft,https://dodo.ac/np/images/c/cc/Monique_NH.png
+mnk04,Monty,Male,Cranky,Monkey,December,7,g'tang,https://dodo.ac/np/images/d/d7/Monty_NH.png
+mus14,Moose,Male,Jock,Mouse,September,13,shorty,https://dodo.ac/np/images/e/ee/Moose_NH.png
+lon06,Mott,Male,Jock,Lion,July,10,cagey,https://dodo.ac/np/images/b/b8/Mott_NH.png
+shp12,Muffy,Female,Big sister,Sheep,February,14,nightshade,https://dodo.ac/np/images/1/16/Muffy_NH.png
+cbr07,Murphy,Male,Cranky,Bear cub,December,29,malarkey,https://dodo.ac/np/images/7/7c/Murphy_NH.png
+goa01,Nan,Female,Normal,Goat,August,24,kid,https://dodo.ac/np/images/b/b8/Nan_NH.png
+mnk01,Nana,Female,Normal,Monkey,August,23,po po,https://dodo.ac/np/images/b/b1/Nana_NH.png
+cow07,Naomi,Female,Snooty,Cow,February,28,moolah,https://dodo.ac/np/images/f/f6/Naomi_NH.png
+bea05,Nate,Male,Lazy,Bear,August,16,yawwwn,https://dodo.ac/np/images/5/55/Nate_NH.png
+squ04,Nibbles,Female,Peppy,Squirrel,July,19,niblet,https://dodo.ac/np/images/9/97/Nibbles_NH.png
+cow06,Norma,Female,Normal,Cow,September,20,hoof hoo,https://dodo.ac/np/images/e/e7/Norma_NH.png
+rbt15,O'Hare,Male,Smug,Rabbit,July,24,amigo,https://dodo.ac/np/images/c/cf/O%27Hare_NH.png
+ocp00,Octavian,Male,Cranky,Octopus,September,20,sucker,https://dodo.ac/np/images/5/54/Octavian_NH_Transparent.png
+ant09,Olaf,Male,Smug,Anteater,May,19,whiffa,https://dodo.ac/np/images/1/11/Olaf_NH.png
+cbr09,Olive,Female,Normal,Bear cub,July,12,sweet pea,https://dodo.ac/np/images/5/5c/Olive_NH.png
+cat03,Olivia,Female,Snooty,Cat,February,3,purrr,https://dodo.ac/np/images/3/36/Olivia_NH.png
+elp00,Opal,Female,Snooty,Elephant,January,20,snoot,https://dodo.ac/np/images/c/ce/Opal_NH.png
+kal05,Ozzie,Male,Lazy,Koala,May,7,ol' bear,https://dodo.ac/np/images/3/3a/Ozzie_NH.png
+pig16,Pancetti,Female,Snooty,Pig,November,14,sooey,https://dodo.ac/np/images/e/ec/Pancetti_NH.png
+ant02,Pango,Female,Peppy,Anteater,November,9,snooooof,https://dodo.ac/np/images/d/d5/Pango_NH.png
+elp05,Paolo,Male,Lazy,Elephant,May,5,pal,https://dodo.ac/np/images/5/59/Paolo_NH.png
+hrs12,Papi,Male,Lazy,Horse,January,10,haaay,https://dodo.ac/np/images/a/a7/Papi_NH.png
+goa08,Pashmina,Female,Big sister,Goat,December,26,kidders,https://dodo.ac/np/images/3/3e/Pashmina_NH.png
+duk02,Pate,Female,Peppy,Duck,February,23,quackle,https://dodo.ac/np/images/6/6b/Pate_NH.png
+cow00,Patty,Female,Peppy,Cow,May,10,how-now,https://dodo.ac/np/images/f/f1/Patty_NH.png
+bea10,Paula,Female,Big sister,Bear,March,22,yodelay,https://dodo.ac/np/images/0/0f/Paula_NH.png
+hrs08,Peaches,Female,Normal,Horse,November,28,neighbor,https://dodo.ac/np/images/0/0d/Peaches_NH.png
+squ00,Peanut,Female,Peppy,Squirrel,June,8,slacker,https://dodo.ac/np/images/0/06/Peanut_NH_Transparent.png
+squ03,Pecan,Female,Snooty,Squirrel,September,10,chipmunk,https://dodo.ac/np/images/6/60/Pecan_NH.png
+brd17,Peck,Male,Jock,Bird,July,25,crunch,https://dodo.ac/np/images/4/44/Peck_NH.png
+gor01,Peewee,Male,Cranky,Gorilla,September,11,li'l bitty baby,https://dodo.ac/np/images/2/2a/Peewee_NH.png
+pig11,Peggy,Female,Peppy,Pig,May,23,shweetie,https://dodo.ac/np/images/2/28/Peggy_NH.png
+cbr14,Pekoe,Female,Normal,Bear cub,May,18,bud,https://dodo.ac/np/images/d/df/Pekoe_NH.png
+mus17,Penelope,Female,Peppy,Mouse,February,5,oh bow,https://dodo.ac/np/images/1/15/Penelope_NH.png
+mus19,Petri,Female,Snooty,Mouse,October,23,mmmhmm,https://dodo.ac/np/images/7/7e/Petri_amiibo.png
+ost07,Phil,Male,Smug,Ostrich,November,27,hurk,https://dodo.ac/np/images/f/f2/Phil_NH.png
+ost10,Phoebe,Female,Big sister,Ostrich,April,22,sparky,https://dodo.ac/np/images/5/50/Phoebe_NH.png
+pbr02,Pierce,Male,Jock,Eagle,January,8,hawkeye,https://dodo.ac/np/images/8/80/Pierce_NH.png
+shp13,Pietro,Male,Smug,Sheep,April,19,honk honk,https://dodo.ac/np/images/f/fb/Pietro_NH.png
+bea01,Pinky,Female,Peppy,Bear,September,9,wah,https://dodo.ac/np/images/b/bf/Pinky_NH.png
+brd05,Piper,Female,Peppy,Bird,April,18,chickadee,https://dodo.ac/np/images/0/09/Piper_NH.png
+rbt06,Pippy,Female,Peppy,Rabbit,June,14,li'l hare,https://dodo.ac/np/images/a/a1/Pippy_NH.png
+chn10,Plucky,Female,Big sister,Chicken,October,12,chicky-poo,https://dodo.ac/np/images/6/63/Plucky_NH.png
+duk05,Pompom,Female,Peppy,Duck,February,11,rah rah,https://dodo.ac/np/images/3/32/Pompom_NH.png
+cbr02,Poncho,Male,Jock,Bear cub,January,2,li'l bear,https://dodo.ac/np/images/f/f0/Poncho_NH.png
+squ15,Poppy,Female,Normal,Squirrel,August,5,nutty,https://dodo.ac/np/images/c/c4/Poppy_NH.png
+dog05,Portia,Female,Snooty,Dog,October,25,ruffian,https://dodo.ac/np/images/c/ce/Portia_NH.png
+flg12,Prince,Male,Lazy,Frog,July,21,burrup,https://dodo.ac/np/images/a/a6/Prince_NH.png
+pgn06,Puck,Male,Lazy,Penguin,February,21,brrrrrrrrr,https://dodo.ac/np/images/5/53/Puck_NH.png
+flg06,Puddles,Female,Peppy,Frog,January,13,splish,https://dodo.ac/np/images/f/f9/Puddles_NH.png
+cbr03,Pudge,Male,Lazy,Bear cub,June,11,golly,https://dodo.ac/np/images/8/87/Pudge_NH.png
+cat06,Punchy,Male,Lazy,Cat,April,11,mrmpht,https://dodo.ac/np/images/6/6d/Punchy_NH.png
+cat07,Purrl,Female,Snooty,Cat,May,29,kitten,https://dodo.ac/np/images/a/a2/Purrl_NH.png
+ost00,Queenie,Female,Snooty,Ostrich,November,13,chicken,https://dodo.ac/np/images/f/f1/Queenie_NH.png
+duk17,Quillson,Male,Smug,Duck,December,22,ridukulous,https://dodo.ac/np/images/e/e4/Quillson_NH.png
+pbr10,Quinn,Female,Big sister,Eagle,January,20,proper,https://dodo.ac/np/images/a/a2/Quinn_amiibo.png
+flg15,Raddle,Male,Lazy,Frog,June,6,aaach—,https://dodo.ac/np/images/7/7a/Raddle_NH.png
+pig02,Rasher,Male,Cranky,Pig,April,7,swine,https://dodo.ac/np/images/e/e1/Rasher_NH.png
+cat23,Raymond,Male,Smug,Cat,October,1,crisp,https://dodo.ac/np/images/2/2a/Raymond_NH.png
+rhn08,Renée,Female,Big sister,Rhinoceros,May,28,yo yo yo,https://dodo.ac/np/images/e/ef/Ren%C3%A9e_NH.png
+hrs16,Reneigh,Female,Big sister,Horse,June,4,ayup yup,https://dodo.ac/np/images/9/92/Reneigh_NH.png
+lon02,Rex,Male,Lazy,Lion,July,24,cool cat,https://dodo.ac/np/images/7/78/Rex_NH.png
+rhn01,Rhonda,Female,Normal,Rhinoceros,January,24,bigfoot,https://dodo.ac/np/images/d/df/Rhonda_NH.png
+flg01,Ribbot,Male,Jock,Frog,February,13,zzrrbbitt,https://dodo.ac/np/images/9/94/Ribbot_NH.png
+squ10,Ricky,Male,Cranky,Squirrel,September,14,nutcase,https://dodo.ac/np/images/8/8d/Ricky_NH.png
+gor11,Rilla,Female,Peppy,Gorilla,November,1,hello,https://dodo.ac/np/images/3/31/Rilla_PC.png
+ost04,Rio,Female,Peppy,Ostrich,September,10,li'l chick,https://dodo.ac/np/images/7/7e/Rio_amiibo.png
+mus09,Rizzo,Male,Cranky,Mouse,January,17,squee,https://dodo.ac/np/images/6/69/Rizzo_NH.png
+pgn01,Roald,Male,Jock,Penguin,January,5,b-b-buddy,https://dodo.ac/np/images/6/63/Roald_NH.png
+brd01,Robin,Female,Snooty,Bird,December,4,la-di-da,https://dodo.ac/np/images/8/85/Robin_NH.png
+hip00,Rocco,Male,Cranky,Hippo,August,18,hippie,https://dodo.ac/np/images/0/02/Rocco_NH.png
+gor09,Rocket,Female,Big sister,Gorilla,April,14,vroom,https://dodo.ac/np/images/5/58/Rocket_NH.png
+mus05,Rod,Male,Jock,Mouse,August,14,ace,https://dodo.ac/np/images/e/ea/Rod_NH.png
+bul01,Rodeo,Male,Lazy,Bull,October,29,chaps,https://dodo.ac/np/images/6/6c/Rodeo_NH.png
+ham03,Rodney,Male,Smug,Hamster,November,10,le ham,https://dodo.ac/np/images/3/35/Rodney_NH.png
+tig00,Rolf,Male,Cranky,Tiger,August,22,grrrolf,https://dodo.ac/np/images/9/93/Rolf_NH.png
+kgr09,Rooney,Male,Cranky,Kangaroo,December,1,punches,https://dodo.ac/np/images/7/79/Rooney_NH.png
+lon07,Rory,Male,Jock,Lion,August,7,capital,https://dodo.ac/np/images/d/db/Rory_NH.png
+hrs04,Roscoe,Male,Cranky,Horse,June,16,nay,https://dodo.ac/np/images/8/8e/Roscoe_NH.png
+cat02,Rosie,Female,Peppy,Cat,February,27,silly,https://dodo.ac/np/images/f/fe/Rosie_NH_Transparent.png
+crd05,Roswell,Male,Smug,Alligator,May,2,spaaace,https://dodo.ac/np/images/d/df/Roswell_amiibo.png
+tig01,Rowan,Male,Jock,Tiger,August,26,mango,https://dodo.ac/np/images/7/7c/Rowan_NH_Transparent.png
+rbt09,Ruby,Female,Peppy,Rabbit,December,25,li'l ears,https://dodo.ac/np/images/4/41/Ruby_NH.png
+cat20,Rudy,Male,Jock,Cat,December,20,mush,https://dodo.ac/np/images/7/7e/Rudy_NH.png
+squ07,Sally,Female,Normal,Squirrel,June,19,nutmeg,https://dodo.ac/np/images/a/a3/Sally_NH.png
+mus04,Samson,Male,Jock,Mouse,July,5,pipsqueak,https://dodo.ac/np/images/9/9b/Samson_NH.png
+ost02,Sandy,Female,Normal,Ostrich,October,21,speedy,https://dodo.ac/np/images/a/a9/Sandy_NH.png
+rbt21,Sasha,Male,Lazy,Rabbit,May,19,hoppity,https://dodo.ac/np/images/9/90/Sasha_amiibo.png
+hrs02,Savannah,Female,Normal,Horse,January,25,y'all,https://dodo.ac/np/images/4/46/Savannah_NH.png
+duk10,Scoot,Male,Jock,Duck,June,13,zip zoom,https://dodo.ac/np/images/e/ec/Scoot_NH.png
+mnk07,Shari,Female,Big sister,Monkey,April,10,cheeky,https://dodo.ac/np/images/7/72/Shari_NH.png
+squ16,Sheldon,Male,Jock,Squirrel,February,26,cardio,https://dodo.ac/np/images/c/ce/Sheldon_NH.png
+dog18,Shep,Male,Smug,Dog,November,24,baa baa baa,https://dodo.ac/np/images/c/c1/Shep_NH.png
+goa09,Sherb,Male,Lazy,Goat,January,18,bawwww,https://dodo.ac/np/images/1/18/Sherb_NH.png
+der11,Shino,Female,Peppy,Deer,October,31,okaaay,https://dodo.ac/np/images/2/26/Shino_amiibo.png
+mnk02,Simon,Male,Lazy,Monkey,January,19,zzzook,https://dodo.ac/np/images/6/68/Simon_NH.png
+wol09,Skye,Female,Normal,Wolf,March,24,airmail,https://dodo.ac/np/images/d/d1/Skye_NH.png
+crd06,Sly,Male,Jock,Alligator,November,15,hoo-rah,https://dodo.ac/np/images/7/70/Sly_NH.png
+rbt03,Snake,Male,Jock,Rabbit,November,3,bunyip,https://dodo.ac/np/images/e/ec/Snake_NH.png
+ant06,Snooty,Female,Snooty,Anteater,October,24,sniffff,https://dodo.ac/np/images/6/63/Snooty_NH.png
+ham04,Soleil,Female,Snooty,Hamster,August,9,tarnation,https://dodo.ac/np/images/d/de/Soleil_NH.png
+brd18,Sparro,Male,Jock,Bird,November,20,like whoa,https://dodo.ac/np/images/3/32/Sparro_NH.png
+rhn02,Spike,Male,Cranky,Rhinoceros,June,17,punk,https://dodo.ac/np/images/f/f1/Spike_NH.png
+pig05,Spork,Male,Lazy,Pig,September,3,snork,https://dodo.ac/np/images/c/c2/Spork_NH.png
+pgn14,Sprinkle,Female,Peppy,Penguin,February,20,frappe,https://dodo.ac/np/images/4/44/Sprinkle_NH.png
+ost03,Sprocket,Male,Jock,Ostrich,December,1,zort,https://dodo.ac/np/images/8/8b/Sprocket_NH.png
+squ08,Static,Male,Cranky,Squirrel,July,9,krzzt,https://dodo.ac/np/images/6/68/Static_NH.png
+shp03,Stella,Female,Normal,Sheep,April,9,baa-dabing,https://dodo.ac/np/images/9/95/Stella_NH.png
+pbr07,Sterling,Male,Jock,Eagle,December,11,skraaaaw,https://dodo.ac/np/images/4/4f/Sterling_NH.png
+cat13,Stinky,Male,Jock,Cat,August,17,GAAHHH,https://dodo.ac/np/images/9/9c/Stinky_NH.png
+cbr05,Stitches,Male,Lazy,Bear cub,February,10,stuffin',https://dodo.ac/np/images/5/56/Stitches_NH.png
+bul03,Stu,Male,Lazy,Bull,April,20,mrooooo,https://dodo.ac/np/images/f/fa/Stu_NH.png
+kal03,Sydney,Female,Normal,Koala,June,21,sunshine,https://dodo.ac/np/images/3/3f/Sydney_NH.png
+squ14,Sylvana,Female,Normal,Squirrel,October,22,hubbub,https://dodo.ac/np/images/f/fc/Sylvana_NH.png
+kgr06,Sylvia,Female,Big sister,Kangaroo,May,3,boing,https://dodo.ac/np/images/9/93/Sylvia_NH.png
+bul05,T-Bone,Male,Cranky,Bull,May,20,moocher,https://dodo.ac/np/images/e/e0/T-Bone_NH.png
+cat12,Tabby,Female,Peppy,Cat,August,13,me-WOW,https://dodo.ac/np/images/2/2f/Tabby_NH.png
+flg09,Tad,Male,Jock,Frog,August,3,sluuuurp,https://dodo.ac/np/images/6/67/Tad_NH.png
+mnk03,Tammi,Female,Peppy,Monkey,April,2,chimpy,https://dodo.ac/np/images/a/a8/Tammi_NH.png
+cbr17,Tammy,Female,Big sister,Bear cub,June,23,ya heard,https://dodo.ac/np/images/a/aa/Tammy_NH.png
+cat05,Tangy,Female,Peppy,Cat,June,17,reeeeOWR,https://dodo.ac/np/images/6/6f/Tangy_NH.png
+rhn00,Tank,Male,Jock,Rhinoceros,May,6,kerPOW,https://dodo.ac/np/images/6/69/Tank_NH_Transparent.png
+squ13,Tasha,Female,Snooty,Squirrel,November,30,nice nice,https://dodo.ac/np/images/3/35/Tasha_NH.png
+bea00,Teddy,Male,Jock,Bear,September,26,grooof,https://dodo.ac/np/images/b/b9/Teddy_NH.png
+pgn12,Tex,Male,Smug,Penguin,October,6,picante,https://dodo.ac/np/images/4/44/Tex_NH.png
+elp10,Tia,Female,Normal,Elephant,November,18,teacup,https://dodo.ac/np/images/0/0d/Tia_NH.png
+mnk09,Tiansheng,Male,Jock,Monkey,August,18,wuwu,https://dodo.ac/np/images/5/5d/Tiansheng_amiibo.png
+rbt07,Tiffany,Female,Snooty,Rabbit,January,9,bunbun,https://dodo.ac/np/images/f/f0/Tiffany_NH.png
+shp10,Timbra,Female,Snooty,Sheep,October,21,pine nut,https://dodo.ac/np/images/6/6f/Timbra_NH.png
+cow01,Tipper,Female,Snooty,Cow,August,25,pushy,https://dodo.ac/np/images/7/75/Tipper_NH.png
+rbt20,Toby,Male,Smug,Rabbit,July,10,ribbit,https://dodo.ac/np/images/6/67/Toby_PC.png
+cat15,Tom,Male,Cranky,Cat,December,10,me-YOWZA,https://dodo.ac/np/images/d/d1/Tom_NH.png
+pig01,Truffles,Female,Peppy,Pig,July,28,snoutie,https://dodo.ac/np/images/e/eb/Truffles_NH.png
+elp09,Tucker,Male,Lazy,Elephant,September,7,fuzzers,https://dodo.ac/np/images/7/7c/Tucker_NH.png
+bea07,Tutu,Female,Peppy,Bear,September,15,twinkles,https://dodo.ac/np/images/9/93/Tutu_NH.png
+brd03,Twiggy,Female,Peppy,Bird,July,13,cheepers,https://dodo.ac/np/images/6/67/Twiggy_NH.png
+tig02,Tybalt,Male,Jock,Tiger,August,19,grrrRAH,https://dodo.ac/np/images/0/0f/Tybalt_NH.png
+bea08,Ursala,Female,Big sister,Bear,January,16,grooomph,https://dodo.ac/np/images/6/65/Ursala_NH.png
+goa06,Velma,Female,Snooty,Goat,January,14,blih,https://dodo.ac/np/images/5/59/Velma_NH.png
+shp00,Vesta,Female,Normal,Sheep,April,16,baaaffo,https://dodo.ac/np/images/5/59/Vesta_NH_Transparent.png
+bul08,Vic,Male,Cranky,Bull,December,29,cud,https://dodo.ac/np/images/1/1d/Vic_NH.png
+hrs01,Victoria,Female,Peppy,Horse,July,11,sugar cube,https://dodo.ac/np/images/d/da/Victoria_NH.png
+gor07,Violet,Female,Snooty,Gorilla,September,1,sweetie,https://dodo.ac/np/images/6/6b/Violet_NH.png
+wol08,Vivian,Female,Snooty,Wolf,January,26,piffle,https://dodo.ac/np/images/2/24/Vivian_NH.png
+cbr06,Vladimir,Male,Cranky,Bear cub,August,2,nyet,https://dodo.ac/np/images/7/75/Vladimir_NH.png
+pgn09,Wade,Male,Lazy,Penguin,October,30,so it goes,https://dodo.ac/np/images/5/52/Wade_NH.png
+dog06,Walker,Male,Lazy,Dog,June,10,wuh,https://dodo.ac/np/images/0/0f/Walker_NH.png
+kgr08,Walt,Male,Cranky,Kangaroo,April,24,pockets,https://dodo.ac/np/images/b/bf/Walt_NH.png
+flg05,Wart Jr.,Male,Cranky,Frog,August,21,grr-ribbit,https://dodo.ac/np/images/2/21/Wart_Jr._NH.png
+duk11,Weber,Male,Lazy,Duck,June,30,quaa,https://dodo.ac/np/images/6/66/Weber_NH.png
+shp09,Wendy,Female,Peppy,Sheep,August,15,lambkins,https://dodo.ac/np/images/2/23/Wendy_NH.png
+wol03,Whitney,Female,Snooty,Wolf,September,17,snappy,https://dodo.ac/np/images/3/36/Whitney_NH.png
+shp07,Willow,Female,Snooty,Sheep,November,26,bo peep,https://dodo.ac/np/images/6/62/Willow_NH.png
+hrs05,Winnie,Female,Peppy,Horse,January,31,hay-OK,https://dodo.ac/np/images/b/b8/Winnie_NH.png
+wol02,Wolfgang,Male,Cranky,Wolf,November,25,snarrrl,https://dodo.ac/np/images/a/aa/Wolfgang_NH.png
+kal00,Yuka,Female,Snooty,Koala,July,20,tsk tsk,https://dodo.ac/np/images/c/ca/Yuka_NH.png
+der02,Zell,Male,Smug,Deer,June,7,pronk,https://dodo.ac/np/images/c/c0/Zell_NH.png
+ant05,Zoe,Female,Normal,Anteater,February,10,zoozooroo,https://dodo.ac/np/images/0/0b/Zoe_amiibo.png
+ocp02,Zucker,Male,Lazy,Octopus,March,8,bloop,https://dodo.ac/np/images/7/7f/Zucker_NH.png
